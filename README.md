@@ -27,8 +27,8 @@ Gain insights into customer demographics and behavior.
 
 Correlate customer sentiment with product reviews.
 
-Data Journey & Technical Architecture
 
+**Data Journey & Technical Architecture**
 
 This project demonstrates an end-to-end data pipeline, showcasing proficiency across multiple stages of data management:
 
@@ -40,7 +40,8 @@ Sentiment Analysis: Customer reviews were processed using Python. The sentiment 
 
 Data Modeling & Visualization: Microsoft Power BI was used to connect to the SQL Database and the sentiment data. The dashboard visualizes key metrics and provides interactive filtering capabilities.
 
-Dashboard Walkthrough: What the Visuals Convey
+
+**Dashboard Walkthrough: What the Visuals Convey**
 
 Page 1: Sales & Marketing Overview
 
